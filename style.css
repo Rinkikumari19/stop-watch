@@ -1,0 +1,25 @@
+img { 
+    width: 100%;
+}
+#stop-watch{
+    font-size: 80px;
+    margin-top: -30%;
+    position: absolute;
+    margin-left: 234px;
+}
+.buttons{ 
+    position: absolute;
+    margin-top: -24%;
+    margin-left: 267px;
+}
+
+.buttons #reset{
+    font-size: 23px;
+    margin-right: 18px;
+    padding: 2px 17px;
+}
+.buttons #startStop{
+    font-size: 23px;
+    margin-right: 31px;
+    padding: 2px 17px;
+}
